@@ -1,0 +1,6 @@
+### Tried to make a mini custom css perser for python challenge at pythons official server
+
+tests.py and node.py is provided by them...
+qualifier.py is what i coded lol...
+
+> Incase you didn't know :D

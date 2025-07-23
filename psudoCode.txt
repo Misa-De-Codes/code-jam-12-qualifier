@@ -1,0 +1,14 @@
+- for each file in posts folder:
+    - open the file
+    - extract <title> content
+    - extract <body> content
+    - if keyword in title or body (case-insensitive):
+        - add title to result list
+- return result list
+
+
+
+    """
+    Given a node, the function will return all nodes, including children,
+    that match the given selector.
+    """
